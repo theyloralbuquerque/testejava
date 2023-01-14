@@ -6,7 +6,6 @@ public class TesteGitHub {
 		
 		System.out.println("Teste Commit GitHub");
 		System.out.println("Test 3");
-		System.out.println("Test 4");
 	}
 
 }
